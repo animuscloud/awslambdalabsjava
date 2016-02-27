@@ -1,0 +1,5 @@
+#Lambda Function Project Metadata
+#Sat Feb 27 13:00:41 EST 2016
+lastDeploymentFunctionName=MyLambdaDynamodbFunction
+lastDeploymentBucketName=anjujohn
+lastDeploymentEndpoint=https\://lambda.us-east-1.amazonaws.com/

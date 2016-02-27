@@ -1,0 +1,5 @@
+#Lambda Function Project Metadata
+#Sat Feb 27 13:55:28 EST 2016
+lastDeploymentFunctionName=LambdaKinesis
+lastDeploymentBucketName=animustraining
+lastDeploymentEndpoint=https\://lambda.us-east-1.amazonaws.com/
